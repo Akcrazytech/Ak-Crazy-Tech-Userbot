@@ -39,6 +39,7 @@ lottie
 lxml
 lyricsgenius
 nekos.py
+nospamplus
 patool
 Pillow
 prettytable
@@ -70,4 +71,5 @@ validators
 vcsi
 wand
 wikipedia
+wget
 youtube_dl > 2020.11.12
