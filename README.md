@@ -5,10 +5,11 @@ Telegrams Most Powerful and Secure Userbot 🤖
 
 ## Join our Support Group regrading BUG FIXES || ERROR || HELP.
 
-<a href="https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA"><img src="https://img.shields.io/badge/Join-support%20Group-red.svg?logo=Telegram"></a>
+<a href="https://t.me/pubgtournamentteamx"><img src="https://img.shields.io/badge/Join-support%20Group-red.svg?logo=Telegram"></a>
 
 
-Take Sting session from Replit
+# Sting session
+Get your String Session from repl run
 [![Run on Repl.it](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://repl.it/@Akcrazytech/Akcrazytech#main.py)
     
 
