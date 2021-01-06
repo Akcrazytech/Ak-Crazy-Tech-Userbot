@@ -17,6 +17,7 @@
   "repository": "https://github.com/Akcrazytech/Ak-Crazy-Tech-Userbot.git",
   "website": "#ToDo",
   "success_url": "will do this later",
+  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
