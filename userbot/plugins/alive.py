@@ -1,13 +1,13 @@
 import asyncio
 from telethon import events
 from userbot.utils import admin_cmd
-from userbot import ALIVE_NAME
+from userbot import ALIVE_PIC
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "CUSTOM ALIVE BY @Anony_server"
 
 kraken = bot.uid
 
-PM_IMG = "https://telegra.ph/file/59cde5d32cfb4ba9c0972.jpg"
+PM_PIC = "https://telegra.ph/file/59cde5d32cfb4ba9c0972.jpg"
 pm_caption = "__**𝘼𝙆 𝘾𝙍𝘼𝙕𝙔 𝙏𝙀𝘾𝙃 𝙐𝙎𝙀𝙍 𝘽𝙊𝙏 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀**__\n\n"
 
 pm_caption += f"               T̷̫͉̰͕̒́H̶̪͍̒ͥ͑̓E̸̖̪̱͚ͨ̀͜ K̦̖̙̱̮̐̌I̶̴̗̗̦͍ͨͭ̉͢͟N̰̜͉͔ͬ̽͢G̛͔͇̞̹̈̀͘͘͟ I̶̴̗̗̦͍ͨͭ̉͢͟S̵̶̮̬͖̄͑͟ H̶̪͍̒ͥ͑̓E̸̖̪̱͚ͨ̀͜Ŗ̴̪̈̄͞E̸̖̪̱͚ͨ̀͜\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
