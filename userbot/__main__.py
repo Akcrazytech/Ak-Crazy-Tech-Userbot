@@ -5,9 +5,9 @@ from sys import argv
 import telethon.utils
 from telethon import TelegramClient
 
-from fridaybot import bot
-from fridaybot.Configs import Config
-from fridaybot.utils import load_module
+from userbot import bot
+from userbot.Config import Config
+from userbot.utils import load_module
 from var import Var
 
 sed = logging.getLogger("tech")
