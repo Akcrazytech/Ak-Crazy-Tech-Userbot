@@ -15,13 +15,13 @@ pm_caption += f"               T̷̫͉̰͕̒́H̶̪͍̒ͥ͑̓E̸̖̪̱͚ͨ̀͜ K
 
 pm_caption += "TELETHON : `1.15.0` \n"
 
-pm_caption += f"sudo     : `[NO]`\n"
+pm_caption += f"Branch    : [Main](https://github.com/AK-CRAZY-TECH/Ak-Crazy-Tech-Userbot)\n"
 
 pm_caption += f"  𝘼𝙆 𝘾𝙍𝘼𝙕𝙔 𝙏𝙀𝘾𝙃 𝙐𝙎𝙀𝙍 𝘽𝙊𝙏 : `[ BOT IS ONLINE MASTER]`\n"
 
 pm_caption += "CHANNEL   : [▁ ▂ ▄ ▅ ▆ ▇ █ ˢυвŜ¢𝐑ⓘв𝓔 █ ▇ ▆ ▅ ▄ ▂ ▁](www.youtube.com/c/akcrazytech)\n"
 
-pm_caption += "CREATOR    : [MASTER HERE](https://t.me/AKSHAY9059)\n\n"
+pm_caption += "CREATOR    : [MASTER HERE](https://t.me/Akcrazytech)\n\n"
 #@command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
 async def amireallyalive(alive):
